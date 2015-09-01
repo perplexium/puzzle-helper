@@ -1,0 +1,42 @@
+2015-08-31 14:57:33.339 PuzzleHelper[73232:2176355] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/elin/Library/Developer/CoreSimulator/Devices/F7E49832-75FB-473E-8917-4A73EB1EC436/data/Containers/Data/Application/C2F71618-DF89-45FD-8354-9F01DEE38278/Library/Cookies/Cookies.binarycookies
+2015-08-31 14:57:33.493 PuzzleHelper[73232:2176355] Apache Cordova native platform version 3.9.1 is starting.
+2015-08-31 14:57:33.494 PuzzleHelper[73232:2176355] Multi-tasking -> Device: YES, App: YES
+2015-08-31 14:57:33.504 PuzzleHelper[73232:2176355] Unlimited access to network resources
+2015-08-31 14:57:33.510 PuzzleHelper[73232:2176355] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-31 14:57:34.288 PuzzleHelper[73232:2176355] Resetting plugins due to page load.
+2015-08-31 14:57:34.515 PuzzleHelper[73232:2176355] Finished load of: file:///Users/elin/Library/Developer/CoreSimulator/Devices/F7E49832-75FB-473E-8917-4A73EB1EC436/data/Containers/Bundle/Application/680B530B-DB49-4B57-9CD5-3507D64808F6/PuzzleHelper.app/www/index.html
+2015-08-31 15:02:01.135 PuzzleHelper[73325:2178675] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/elin/Library/Developer/CoreSimulator/Devices/F7E49832-75FB-473E-8917-4A73EB1EC436/data/Containers/Data/Application/9CDA4214-B9E7-4423-BB2F-72933B54EC73/Library/Cookies/Cookies.binarycookies
+2015-08-31 15:02:01.244 PuzzleHelper[73325:2178675] Apache Cordova native platform version 3.9.1 is starting.
+2015-08-31 15:02:01.245 PuzzleHelper[73325:2178675] Multi-tasking -> Device: YES, App: YES
+2015-08-31 15:02:01.247 PuzzleHelper[73325:2178675] Unlimited access to network resources
+2015-08-31 15:02:01.250 PuzzleHelper[73325:2178675] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-31 15:02:01.392 PuzzleHelper[73325:2178675] Resetting plugins due to page load.
+2015-08-31 15:02:01.476 PuzzleHelper[73325:2178675] Finished load of: file:///Users/elin/Library/Developer/CoreSimulator/Devices/F7E49832-75FB-473E-8917-4A73EB1EC436/data/Containers/Bundle/Application/0243C56E-5556-46AA-A4D3-7044EDCB3D11/PuzzleHelper.app/www/index.html
+2015-08-31 16:45:42.005 PuzzleHelper[73589:2218090] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/elin/Library/Developer/CoreSimulator/Devices/F7E49832-75FB-473E-8917-4A73EB1EC436/data/Containers/Data/Application/02707B1C-4EB6-4632-9C17-81769F52277F/Library/Cookies/Cookies.binarycookies
+2015-08-31 16:45:42.230 PuzzleHelper[73589:2218090] Apache Cordova native platform version 3.9.1 is starting.
+2015-08-31 16:45:42.231 PuzzleHelper[73589:2218090] Multi-tasking -> Device: YES, App: YES
+2015-08-31 16:45:42.248 PuzzleHelper[73589:2218090] Unlimited access to network resources
+2015-08-31 16:45:42.252 PuzzleHelper[73589:2218090] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-08-31 16:45:42.455 PuzzleHelper[73589:2218090] Resetting plugins due to page load.
+2015-08-31 16:45:42.589 PuzzleHelper[73589:2218090] Finished load of: file:///Users/elin/Library/Developer/CoreSimulator/Devices/F7E49832-75FB-473E-8917-4A73EB1EC436/data/Containers/Bundle/Application/137C9B03-0582-4CB1-9144-932952B13936/PuzzleHelper.app/www/index.html
